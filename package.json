@@ -7,8 +7,16 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "jest": "^29.4.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unartcs/testing-practice-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/unartcs/testing-practice-project/issues"
+  },
+  "homepage": "https://github.com/unartcs/testing-practice-project#readme",
+  "description": ""
 }
